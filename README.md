@@ -1,0 +1,1 @@
+mongo_version.go为mongo版本如果需要其他存储方式可自行替换，robot.go为自动点击robot

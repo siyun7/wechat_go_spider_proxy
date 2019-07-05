@@ -1,0 +1,13 @@
+{
+  "Mongo": {
+    "Host": "127.0.0.1",
+    "Port": "27017"
+  },
+  "Spider": {
+    "Debug": false,
+    "AutoScrool": false,
+    "Compress": true,
+    "SleepSecond": 3,
+    "ProxyPort": "9955"
+  }
+}
